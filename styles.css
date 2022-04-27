@@ -97,16 +97,14 @@ a:visited {
     opacity: 0.9;
 }
 .bg-green {
-    background: #e5ffe7;
-    opacity: 0.;
+    background: #dbe7dc;
+    opacity: 0.9;
 }
 .bg-red {
     background: #ffe5e5;
     opacity: 0.9;
 }
-.hobi {
-    opacity: 0.9;
-}
+
 .card {
     padding: 15px 20px;
     margin-bottom: 20px;

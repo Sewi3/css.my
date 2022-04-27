@@ -29,6 +29,10 @@ a:visited {
     margin-bottom: 20px ;
 }
 .info_text{
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    background: rgb(207, 222, 228);
     margin-left: 40px;
 }
 .info_text h1 {
